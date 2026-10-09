@@ -1,19 +1,39 @@
-# Zara — arquivo de apresentação anterior
+# Zara — apresentação anterior (arquivo histórico)
 
-Este repositório preserva **material histórico de apresentação profissional**, originalmente orientado a Ciência de Dados. Ele **não** é o perfil principal atual e não deve ser confundido com uma relação de projetos ou experiências verificados.
+> **Este repositório preserva uma versão antiga da minha apresentação profissional.** Não é meu perfil principal nem um currículo atualizado. Para informações atuais, acesse **[meu perfil no GitHub — ZaraTakion](https://github.com/ZaraTakion)**.
 
-## Perfil profissional atual
+## Minha atuação atual
 
-O perfil central e atualizado está em **[ZaraTakion](https://github.com/ZaraTakion)**, com foco em **Python, desenvolvimento Back-End, APIs REST, bancos de dados e testes de software**.
+Sou **Rodrigo Araújo Maciel Pinheiro**, desenvolvedor de software júnior com foco em **Back-End Python**. Meus projetos mais recentes exploram APIs REST, autorização, bancos de dados relacionais, testes automatizados e documentação técnica.
 
-Projetos técnicos para consulta:
+**Projetos atuais para avaliação de código:**
 
-- [Chamados API](https://github.com/ZaraTakion/chamados-api) — Django REST Framework, JWT, regras de autorização, auditoria e notificações.
-- [Task Manager Backend](https://github.com/ZaraTakion/task-manager-backend) — FastAPI e SQLite; modernização registrada no [PR #2](https://github.com/ZaraTakion/task-manager-backend/pull/2).
-- [UPA Portal Acadêmico](https://github.com/ZaraTakion/upa-portal-academico) — Django REST Framework e React/Vite.
+- **[Chamados API](https://github.com/ZaraTakion/chamados-api)** — Django REST Framework, JWT, trilha de auditoria e notificações assíncronas.
+- **[Task Manager API](https://github.com/ZaraTakion/task-manager-backend)** — FastAPI, Pydantic e SQLite.
+- **[UPA Portal Acadêmico](https://github.com/ZaraTakion/upa-portal-academico)** — API acadêmica em Django REST Framework, integrada a uma interface React.
 
-## Contexto histórico
+O **[repositório do meu perfil principal](https://github.com/ZaraTakion/ZaraTakion)** reúne minha apresentação profissional. Consulte os READMEs e os testes de cada projeto para distinguir funcionalidades já presentes na branch principal de alterações ainda em revisão.
 
-A antiga apresentação bilíngue destacava Ciência de Dados, dashboards e tecnologias cuja documentação não está centralizada neste repositório. O conteúdo original permanece consultável pelo [histórico de commits](https://github.com/ZaraTakion/Zara/commits/main), mas **não representa declarações profissionais atualmente confirmadas**.
+## Projetos anteriores — exploração de dados
 
-A separação é intencional: apenas o repositório de perfil principal consolida a apresentação profissional. Este repositório não reivindica atividade comercial, certificações ou métricas sem documentação.
+Estes repositórios **continuam disponíveis** e fazem parte do meu percurso de aprendizado. Eles não definem minha área de atuação prioritária atualmente.
+
+| Projeto | O que contém |
+| --- | --- |
+| [Air Quality Analysis](https://github.com/ZaraTakion/air-quality-analysis) | Análise exploratória de dados ambientais, notebooks, conjuntos de dados e dashboard com Dash. |
+| [Brazil Traffic Insight](https://github.com/ZaraTakion/brazil-traffic-insight) | Exploração de dados de trânsito brasileiro, pipeline Python, dashboard e testes. |
+| [NBA Team Dashboard](https://github.com/ZaraTakion/nba-dashboard) | Visualização de estatísticas históricas de equipes, aplicação Streamlit, conjunto de dados e testes. |
+
+As descrições acima são referências aos **conteúdos verificáveis dos repositórios**, não afirmações de trabalho comercial, atualização de dados em tempo real ou resultados profissionais certificados.
+
+## Sobre este arquivo
+
+A apresentação antiga, com foco em Ciência de Dados, permanece acessível pelo **[histórico de commits deste repositório](https://github.com/ZaraTakion/Zara/commits/main)**. O conteúdo não foi apagado nem reescrito retroativamente.
+
+Removi desta página informações de contato antigas, links que não pude confirmar e declarações detalhadas de experiência/certificação sem documentação associada. O histórico Git continua público e pode conter versões anteriores desses dados.
+
+---
+
+### English
+
+**Historical profile notice:** This repository holds an earlier professional introduction, previously focused on data analysis. My current direction is **junior Python back-end development** (REST APIs, relational databases, access control, and automated testing). Visit my **[current GitHub profile](https://github.com/ZaraTakion)** or the projects linked above for current technical evidence. Earlier content remains in Git history; this repository is not my current résumé.
