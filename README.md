@@ -1,146 +1,39 @@
-<h1 align="center">Rodrigo Pinheiro</h1>
-<p align="center">
-<strong>Cientista de Dados | Analista de Dados Júnior</strong><br>
-<a href="mailto:rodzmaciel21@gmail.com">rodzmaciel21@gmail.com</a> • (83) 98664-5113 • Cabedelo, Brasil<br>
-<a href="https://linkedin.com/in/rodrigo-pinheiro-94aa74358">LinkedIn</a> • 
-<a href="https://github.com/ZaraTakion">GitHub</a>
-</p>
+# Zara — apresentação anterior (arquivo histórico)
+
+> **Este repositório preserva uma versão antiga da minha apresentação profissional.** Não é meu perfil principal nem um currículo atualizado. Para informações atuais, acesse **[meu perfil no GitHub — ZaraTakion](https://github.com/ZaraTakion)**.
+
+## Minha atuação atual
+
+Sou **Rodrigo Araújo Maciel Pinheiro**, desenvolvedor de software júnior com foco em **Back-End Python**. Meus projetos mais recentes exploram APIs REST, autorização, bancos de dados relacionais, testes automatizados e documentação técnica.
+
+**Projetos atuais para avaliação de código:**
+
+- **[Chamados API](https://github.com/ZaraTakion/chamados-api)** — Django REST Framework, JWT, trilha de auditoria e notificações assíncronas.
+- **[Task Manager API](https://github.com/ZaraTakion/task-manager-backend)** — FastAPI, Pydantic e SQLite.
+- **[UPA Portal Acadêmico](https://github.com/ZaraTakion/upa-portal-academico)** — API acadêmica em Django REST Framework, integrada a uma interface React.
+
+O **[repositório do meu perfil principal](https://github.com/ZaraTakion/ZaraTakion)** reúne minha apresentação profissional. Consulte os READMEs e os testes de cada projeto para distinguir funcionalidades já presentes na branch principal de alterações ainda em revisão.
+
+## Projetos anteriores — exploração de dados
+
+Estes repositórios **continuam disponíveis** e fazem parte do meu percurso de aprendizado. Eles não definem minha área de atuação prioritária atualmente.
+
+| Projeto | O que contém |
+| --- | --- |
+| [Air Quality Analysis](https://github.com/ZaraTakion/air-quality-analysis) | Análise exploratória de dados ambientais, notebooks, conjuntos de dados e dashboard com Dash. |
+| [Brazil Traffic Insight](https://github.com/ZaraTakion/brazil-traffic-insight) | Exploração de dados de trânsito brasileiro, pipeline Python, dashboard e testes. |
+| [NBA Team Dashboard](https://github.com/ZaraTakion/nba-dashboard) | Visualização de estatísticas históricas de equipes, aplicação Streamlit, conjunto de dados e testes. |
+
+As descrições acima são referências aos **conteúdos verificáveis dos repositórios**, não afirmações de trabalho comercial, atualização de dados em tempo real ou resultados profissionais certificados.
+
+## Sobre este arquivo
+
+A apresentação antiga, com foco em Ciência de Dados, permanece acessível pelo **[histórico de commits deste repositório](https://github.com/ZaraTakion/Zara/commits/main)**. O conteúdo não foi apagado nem reescrito retroativamente.
+
+Removi desta página informações de contato antigas, links que não pude confirmar e declarações detalhadas de experiência/certificação sem documentação associada. O histórico Git continua público e pode conter versões anteriores desses dados.
 
 ---
 
-<p align="center">
-  <em>Escolha seu idioma | Choose your language</em><br>
-  🇧🇷 <a href="#pt-br">Português</a> • 🇺🇸 <a href="#en">English</a>
-</p>
+### English
 
----
-
-## 🇧🇷 Português <a name="pt-br"></a>
-
-### 🎯 Resumo Profissional
-Estudante de **Sistemas para Internet (UNIESP)** com foco em **Ciência de Dados**.  
-Experiência prática com **Python**, **Pandas** e **Power BI** para análise e visualização de dados.  
-Desenvolve dashboards interativos e relatórios analíticos aplicados a **problemas reais**.  
-Busca oportunidades de **estágio** ou **posição júnior** na área de dados.
-
----
-
-### 🎓 Formação
-**Sistemas para Internet** – UNIESP Centro Universitário  
-08/2023 – 04/2026 • Cabedelo, Paraíba – Brasil  
-Tópicos: Desenvolvimento Web (React, Django, SQL)
-
----
-
-### 💼 Projetos Pessoais
-
-**Dashboard de Qualidade do Ar (02/2024 – 06/2024)**  
-Aplicativo interativo em Streamlit para monitoramento de poluentes.  
-Limpeza, normalização e análise de correlação de dados.  
-🔗 [Ver projeto](https://github.com/ZaraTakion/air-quality-analysis)
-
-**Análise de Tráfego no Brasil (07/2024 – 09/2024)**  
-Exploração e modelagem de dados sobre acidentes e fluxo de trânsito.  
-Uso de **Python**, **Pandas**, **Seaborn** e **Power BI** para identificar padrões regionais.  
-🔗 [Ver projeto](https://github.com/ZaraTakion/brazil-traffic-insight)
-
-**Análise de Dados da NBA (01/2023 – 03/2023)**  
-Exploração e visualização de estatísticas de equipes da NBA (2000–2023).  
-Utilização de **Python**, **Pandas**, **Matplotlib** e **Seaborn**.  
-🔗 [Ver projeto](https://github.com/ZaraTakion/nba-dashboard)
-
-**Portfólio Web – Zara Takion (10/2024 – Presente)**  
-Portfólio pessoal desenvolvido com **React**, **Vite** e **Tailwind CSS**, apresentando projetos e perfil profissional.  
-Design responsivo e animações otimizadas.  
-🔗 [Ver projeto](https://github.com/ZaraTakion/portifolio-zara)
-
----
-
-### 🧠 Habilidades
-- Python, Pandas, NumPy, SQL  
-- Streamlit, Power BI, Git  
-- Visualização e tratamento de dados  
-- Análise exploratória e modelagem
-
----
-
-### 📜 Certificados
-**Programação em Python: do Básico ao Avançado – Udemy (01/2023 – 03/2023)**  
-Estruturas de dados, automação, integração com APIs e manipulação de arquivos.
-
----
-
-### 🌍 Idiomas
-**Português:** Nativo  
-**Inglês:** Intermediário  
-
----
-
-### 💡 Interesses
-Ciência de Dados • Web Design • Machine Learning • Dashboards Interativos  
-
----
-
-## 🇺🇸 English <a name="en"></a>
-
-### 🎯 Professional Summary
-Undergraduate student in **Internet Systems (UNIESP)** with a focus on **Data Science**.  
-Hands-on experience with **Python**, **Pandas**, and **Power BI** for data analysis and visualization.  
-Develops interactive dashboards and analytical reports applied to **real-world problems**.  
-Seeking **internship** or **junior-level** opportunities in the data field.
-
----
-
-### 🎓 Education
-**Internet Systems** – UNIESP University Center  
-08/2023 – 04/2026 • Cabedelo, Paraíba – Brazil  
-Topics: Web Development (React, Django, SQL)
-
----
-
-### 💼 Personal Projects
-
-**Air Quality Dashboard (02/2024 – 06/2024)**  
-Interactive Streamlit app for pollutant monitoring.  
-Performed data cleaning, normalization, and correlation analysis.  
-🔗 [View project](https://github.com/ZaraTakion/air-quality-analysis)
-
-**Brazil Traffic Analysis (07/2024 – 09/2024)**  
-Exploration and modeling of accident and traffic flow data.  
-Used **Python**, **Pandas**, **Seaborn**, and **Power BI** to identify regional patterns.  
-🔗 [View project](https://github.com/ZaraTakion/brazil-traffic-insight)
-
-**NBA Data Analysis (01/2023 – 03/2023)**  
-Exploration and visualization of NBA team statistics (2000–2023).  
-Applied **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.  
-🔗 [View project](https://github.com/ZaraTakion/nba-dashboard)
-
-**Web Portfolio – Zara Takion (10/2024 – Present)**  
-Personal portfolio developed using **React**, **Vite**, and **Tailwind CSS**, showcasing projects and professional profile.  
-Responsive design and optimized animations.  
-🔗 [View project](https://github.com/ZaraTakion/portifolio-zara)
-
----
-
-### 🧠 Skills
-- Python, Pandas, NumPy, SQL  
-- Streamlit, Power BI, Git  
-- Data visualization and processing  
-- Exploratory analysis and modeling  
-
----
-
-### 📜 Certificates
-**Python Programming: From Basic to Advanced – Udemy (01/2023 – 03/2023)**  
-Data structures, automation, API integration, and file manipulation.
-
----
-
-### 🌍 Languages
-**Portuguese:** Native  
-**English:** Intermediate  
-
----
-
-### 💡 Interests
-Data Science • Web Design • Machine Learning • Interactive Dashboards
+**Historical profile notice:** This repository holds an earlier professional introduction, previously focused on data analysis. My current direction is **junior Python back-end development** (REST APIs, relational databases, access control, and automated testing). Visit my **[current GitHub profile](https://github.com/ZaraTakion)** or the projects linked above for current technical evidence. Earlier content remains in Git history; this repository is not my current résumé.
